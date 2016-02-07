@@ -1,1 +1,1 @@
-# GTA V Bodyguard Script
+# GTA V Gun Game
